@@ -1,6 +1,6 @@
 # Data Science for Cybersecurity
 
-**This is my homework in the course of Data Science for Cybersecurity, 2020@NCCU**
+**This is my answer record of the homework in the course of Data Science for Cybersecurity, 2020@NCCU**
 
 > This is the [Course Link](https://sites.google.com/view/mikehsiao/teaching/data-science-for-cybersecurity-2020)
 
@@ -9,7 +9,6 @@
 The following is detailed description of each assignment
 
 - **Covid-19 Bonus** is a data analysis exercise I did before taking this course, and the dataset used in this exercise is the *Covid-19 Dataset until April 18, 2020*
-
 - **Hw01** is a basic data analysis exercise with *Python* and *ZeroAccess cyber attack dataset*
 - **Hw02** is also a basic data analysis exercise but with *Orange (Data Analysis Tool)* and *Network Intrusion Detection Dataset on Kaggle*
   - *Feature Engineering*
@@ -27,6 +26,10 @@ The following is detailed description of each assignment
 - **Hw07** is an exercise about *Spam Mail Detector* with *Orange*
 - **Hw08** is an *Deep Learning* exercise. In this homework, we should use *CNN* to classify malicious PE files into malware family
 - **Hw09** is an extension of Hw08. In this homework, we should use *AutoEncoder* to do *Dimension Reduction* on images, and then use *CNN* to classify these PE files' images into malware family
-- **Midterm**, as its name suggests, is a exam to review the content learned in the first half of the semester
-- **Final Exam** is a exam to review some important topics and concepts about *Data Science and Cybersecurity*
+- **Midterm** is my answer record of the Midterm Exam. The main purpose of the Midterm Exam is to review the content learned in the first half of the semester
+- **Final Exam** is my answer record of the Final Exam. The main purpose of the Final Exam is to review some important topics and concepts about *Data Science and Cybersecurity*
+
+---
+
+> **Note: These contents are only my personal answers, not standard answers to the homework**
 
